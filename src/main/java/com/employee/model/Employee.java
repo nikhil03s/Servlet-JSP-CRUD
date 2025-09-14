@@ -1,4 +1,4 @@
-package com.employe.model;
+package com.employee.model;
 
 public class Employee {
 	private int id;

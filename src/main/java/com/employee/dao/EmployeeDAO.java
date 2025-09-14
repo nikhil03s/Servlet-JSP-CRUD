@@ -2,7 +2,8 @@ package com.employee.dao;
 
 import java.sql.*;
 import java.util.*;
-import com.employe.model.Employee;
+
+import com.employee.model.Employee;
 import com.employee.util.DBUtil;
 
 public class EmployeeDAO {
