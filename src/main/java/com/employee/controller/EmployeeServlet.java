@@ -1,7 +1,7 @@
 package com.employee.controller;
 
-import com.crud.dao.EmployeeDAO;
 import com.employe.model.Employee;
+import com.employee.dao.EmployeeDAO;
 
 import java.io.IOException;
 import java.sql.SQLException;
