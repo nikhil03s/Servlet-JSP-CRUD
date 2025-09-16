@@ -35,7 +35,7 @@ public class EmployeeServlet extends HttpServlet {
 				break;
 			case "insert":
 				insertEmployee(req, resp);
-				break; // note: insert normally POST, but keeping here for completeness
+				break; 
 			case "edit":
 				showEditForm(req, resp);
 				break;
